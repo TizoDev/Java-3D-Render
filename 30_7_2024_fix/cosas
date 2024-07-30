@@ -1,0 +1,7 @@
+formula para formas esfericas
+(r * sin a * cos b, r * cos a, r * sen a * sen b)
+
+
+-valores aleatorios a cada punto de un terreno
+-alisado del terreno agarrando los 8 valores alrededor de uno, incluyendose a si mismo, y sacando promedio de 9
+para alisarlo
